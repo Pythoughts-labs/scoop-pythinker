@@ -1,12 +1,12 @@
 {
-  "version": "0.40.0",
+  "version": "0.40.1",
   "description": "Pythinker Code is your next CLI agent.",
   "homepage": "https://pythinker.com",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Pythoughts-labs/pythinker-code/releases/download/v0.40.0/pythinker-0.40.0-x86_64-pc-windows-msvc-onedir.zip",
-      "hash": "dace02772e7928974eb91213ba54a6c2457da27e95c8b2aa6692521c47ddf631"
+      "url": "https://github.com/Pythoughts-labs/pythinker-code/releases/download/v0.40.1/pythinker-0.40.1-x86_64-pc-windows-msvc-onedir.zip",
+      "hash": "8637a8b24eac17062685c4e0ed70a4054e8527d01302670bde877aeff31cd4e1"
     }
   },
   "bin": "pythinker\\pythinker.exe",
